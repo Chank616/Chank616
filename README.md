@@ -1,6 +1,10 @@
-Learn together✨.
+<div align="center">
+  <b>Thanks for visiting🍻</b><br>
+   <b>Learn together✨</b><br>
+   <b>Progress together🎇</b><br>
+   <b>最重要的是要天天开心凹🥳</b><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chank616&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
-Progress together🎇.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chank616&layout=compact&theme=transparent&hide_border=true" />
 
