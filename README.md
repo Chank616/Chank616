@@ -7,5 +7,6 @@
 </div>
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=chank616&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/chank616/count.svg)
 
 
