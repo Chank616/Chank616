@@ -2,7 +2,9 @@
 
 ### Hi there 👋, I'm chank616
 
-I love programming. It makes me comfortable. Practice is the sole criterion for testing truth.
+I love programming. It makes me comfortable. 
+
+Practice is the sole criterion for testing truth.
 
 - 🚀 I use daily:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.twinklestars.top/)
