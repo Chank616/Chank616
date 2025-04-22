@@ -2,10 +2,7 @@
 
 ### _Hi there 👋, I'm chank616
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
-
-[![foxmail 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:chank616@foxmail.com)](mailto:find_onepiece@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gnsswaaa@gmail.com)
+I love programming. It makes me comfortable. Practice is the sole criterion for testing truth.
 
 - 🚀 I use daily:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
