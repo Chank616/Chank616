@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### _Hi there 👋, I'm chank616
+### Hi there 👋, I'm chank616
 
 I love programming. It makes me comfortable. Practice is the sole criterion for testing truth.
 
