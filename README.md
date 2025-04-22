@@ -25,7 +25,7 @@ I love programming. It makes me comfortable. Practice is the sole criterion for 
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://www.twinklestars.top/)
 
 
-Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank You!🎉🎉
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/chank616/count.svg) visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chank616&theme=flag-india)](https://github.com/chank616/github-readme-stats) -->
 
